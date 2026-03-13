@@ -61,3 +61,7 @@ This project was created as a small exercise to:
 ## License
 
 This project is open for educational and demonstration purposes.
+
+## Screenshot
+
+![Agenda running](Agenda-Harbour.bmp)
